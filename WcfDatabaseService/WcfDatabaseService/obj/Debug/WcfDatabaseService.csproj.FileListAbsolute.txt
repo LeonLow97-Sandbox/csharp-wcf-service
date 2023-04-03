@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Self-Learning\chsarp-wcf-service\WcfDatabaseService\WcfDatabaseService\bin\WcfDatabaseService.dll.config
+C:\Users\User\Desktop\Self-Learning\chsarp-wcf-service\WcfDatabaseService\WcfDatabaseService\bin\WcfDatabaseService.dll
+C:\Users\User\Desktop\Self-Learning\chsarp-wcf-service\WcfDatabaseService\WcfDatabaseService\bin\WcfDatabaseService.pdb
+C:\Users\User\Desktop\Self-Learning\chsarp-wcf-service\WcfDatabaseService\WcfDatabaseService\obj\Debug\WcfDatabaseService.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-Learning\chsarp-wcf-service\WcfDatabaseService\WcfDatabaseService\obj\Debug\WcfDatabaseService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-Learning\chsarp-wcf-service\WcfDatabaseService\WcfDatabaseService\obj\Debug\WcfDatabaseService.dll
+C:\Users\User\Desktop\Self-Learning\chsarp-wcf-service\WcfDatabaseService\WcfDatabaseService\obj\Debug\WcfDatabaseService.pdb
